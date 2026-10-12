@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#183b4e}.title{font-size:19px;font-weight:bold}.label{font-size:12px}.axis{stroke:#b8c7ce;stroke-width:1}</style>
+<text x="35" y="34" class="title">Monthly delivered net sales (INR lakh)</text>
+<text x="535" y="34" class="title">Delivered net sales by category (INR lakh)</text>
+<line x1="45" y1="350" x2="455" y2="350" class="axis"/>
+<circle cx="45.0" cy="153.4" r="4" fill="#176B87"/><text x="31.0" y="372" class="label">01</text>
+<circle cx="82.3" cy="114.4" r="4" fill="#176B87"/><text x="68.3" y="372" class="label">02</text>
+<circle cx="119.5" cy="133.7" r="4" fill="#176B87"/><text x="105.5" y="372" class="label">03</text>
+<circle cx="156.8" cy="172.7" r="4" fill="#176B87"/><text x="142.8" y="372" class="label">04</text>
+<circle cx="194.1" cy="124.3" r="4" fill="#176B87"/><text x="180.1" y="372" class="label">05</text>
+<circle cx="231.4" cy="103.1" r="4" fill="#176B87"/><text x="217.4" y="372" class="label">06</text>
+<circle cx="268.6" cy="112.5" r="4" fill="#176B87"/><text x="254.6" y="372" class="label">07</text>
+<circle cx="305.9" cy="129.7" r="4" fill="#176B87"/><text x="291.9" y="372" class="label">08</text>
+<circle cx="343.2" cy="90.0" r="4" fill="#176B87"/><text x="329.2" y="372" class="label">09</text>
+<circle cx="380.5" cy="101.5" r="4" fill="#176B87"/><text x="366.5" y="372" class="label">10</text>
+<circle cx="417.7" cy="151.6" r="4" fill="#176B87"/><text x="403.7" y="372" class="label">11</text>
+<circle cx="455.0" cy="149.6" r="4" fill="#176B87"/><text x="441.0" y="372" class="label">12</text>
+<polyline points="45.0,153.4 82.3,114.4 119.5,133.7 156.8,172.7 194.1,124.3 231.4,103.1 268.6,112.5 305.9,129.7 343.2,90.0 380.5,101.5 417.7,151.6 455.0,149.6" fill="none" stroke="#176B87" stroke-width="3"/>
+<rect x="562.0" y="178.9" width="76.0" height="171.1" rx="4" fill="#176B87"/>
+<text x="558.0" y="370" class="label">Beauty</text>
+<rect x="662.0" y="97.5" width="76.0" height="252.5" rx="4" fill="#64CCC5"/>
+<text x="658.0" y="370" class="label">Electronics</text>
+<rect x="762.0" y="90.0" width="76.0" height="260.0" rx="4" fill="#3B82A0"/>
+<text x="758.0" y="370" class="label">Fashion</text>
+<rect x="862.0" y="156.9" width="76.0" height="193.1" rx="4" fill="#8ECAE6"/>
+<text x="858.0" y="370" class="label">Home &amp; Kitchen</text>
+</svg>
